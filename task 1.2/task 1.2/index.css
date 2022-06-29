@@ -1,0 +1,88 @@
+body{
+  background-color: rgb(44, 46, 58);
+}
+main
+{
+  display:inline-flex;
+  place-items:center;
+  min-height:500px;
+  padding:100px;
+  
+  
+}
+form
+{
+    border: none;
+    padding-left: 40px;
+    padding-right: 100px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    width: 400px;
+    color: black;
+    background-color: white;
+    height: 490px;
+    
+}
+.form1
+{
+    border: none;
+    padding-left: 40px;
+    padding-right: 100px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 490px;
+}
+.form1 h2{
+  font-size: 50px;
+}
+label
+{
+  display:inline-block;
+  font-weight:bold;
+}
+.mobile-field select
+{
+  width:25%;
+}
+.mobile-field input
+{
+  width:73%;
+}
+.logo
+{
+  width:150px;
+  padding-top: 40px;
+  
+ 
+}
+a{
+  color: #f0c14b;
+  text-decoration: none;
+}
+.conditions a{
+  color: grey;
+}
+.amazon{
+  color: grey;
+}
+button
+{
+  background:linear-gradient(to bottom ,#f6db9a,#f0c14b);
+  padding:2px;
+  border:2px solid #f0c14b;
+  border-radius:4px;
+  height: 50px;
+  width: 150px;
+}
+.agreement a{
+  color: grey;
+}
+@media only screen and (max-width:750px){
+  
+}
+
